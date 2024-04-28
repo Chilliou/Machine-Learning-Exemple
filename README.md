@@ -61,4 +61,5 @@ sortie = np.array([8, 15, 24, 35, 48, 56])
 ```
 Là notre programme arrive à s'améliorer encore plus en réduisant son champs d'erreurs avec une loss à 2.33  
 Voici donc pourquoi il faut fournir un maximum de donnée et si possible précise afin d'avoir le réseau de neurones le plus performant possible
-
+### Inspiration
+Programme inspiré par : https://www.youtube.com/watch?v=rn1EEd6M7fA&list=WL&index=20
